@@ -21,5 +21,5 @@ Replace the first row with your contribution.
 | Week #       | Contribution (Link)  | Type  | Description | 
 |---|:---|:---|:---| 
 |  2   | link to my contribution    | course website    |   I fixed a broken link.    |
-|  3   | (Link)[https://nyu-ossd-s19.github.io/sadmanf-weekly]    | Course Website    |  I added an issue    |
-|     |     |     |      |
+|  3   | [Link](https://nyu-ossd-s19.github.io/sadmanf-weekly)    | Course Website    |  I pointed out an imperfect link    |
+|  3   | [Link](https://github.com/nyu-ossd-s19/angie1313-weekly/issues/2)    | Course website    |  I pointed out a misspelling    |
